@@ -1,4 +1,6 @@
-"""{{_header_}}
+"""
+{{_indent_}}Args:
+{{_indent_}}{{_arg_}} (vartype):
 
-:param {{_args_}}:
+{{_indent_}}Returns:
 """
