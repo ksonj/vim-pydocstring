@@ -1,6 +1,10 @@
 """
+TODO
+
 {{_indent_}}Args:
-{{_indent_}}{{_arg_}} (vartype):
+{{_indent_}}{{_arg_}} (TODO): TODO
 
 {{_indent_}}Returns:
+{{_indent_}} TODO
+
 """
